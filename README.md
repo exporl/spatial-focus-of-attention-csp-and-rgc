@@ -17,7 +17,16 @@ Simon Geirnaert
 KU Leuven, Department of Electrical Engineering (ESAT), STADIUS Center for Dynamical Systems, Signal Processing and Data Analytics  
 KU Leuven, Department of Neurosciences, Research Group ExpORL  
 Leuven.AI - KU Leuven institute for AI  
-[mailto](mailto:simon.geirnaert@esat.kuleuven.be)  
+<simon.geirnaert@esat.kuleuven.be>
+
+Tom Francart
+KU Leuven, Department of Neurosciences, Research Group ExpORL  
+<tom.francart@kuleuven.be>
+
+Alexander Bertrand
+KU Leuven, Department of Electrical Engineering (ESAT), STADIUS Center for Dynamical Systems, Signal Processing and Data Analytics  
+Leuven.AI - KU Leuven institute for AI  
+<alexander.bertrand@esat.kuleuven.be>
 
  ## References
  
