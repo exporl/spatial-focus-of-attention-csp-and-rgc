@@ -12,6 +12,8 @@ This repository includes the MATLAB-code for the subject-specific CSP decoder as
 
 Developed and tested in MATLAB R2020a.
 
+Note: Tensorlab is required (https://www.tensorlab.net/).
+
 ### Quick guide
 
 1. Download the dataset from https://zenodo.org/record/3997352#.X0y3nHkzZEZ.
