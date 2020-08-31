@@ -8,9 +8,16 @@ If this code has been useful for you, please cite [1].
 
 ## About
 
-This repository includes the MATLAB code for the subject-specific CSP decoder as explained in [1]. [mainSubjectSpecific.m](mainSubjectSpecific.m) contains the main script, which works by default with the dataset published in https://zenodo.org/record/3997352#.X0y1B3kzZEY. The [preprocessData.m](preprocessData.m)-script can be used to preprocess the data, downloaded from the aforementioned link, and replaces the function of the same name at https://zenodo.org/record/3997352#.X0y1B3kzZEY. 
+This repository includes the MATLAB-code for the subject-specific CSP decoder as explained in [1]. [mainSubjectSpecific.m](mainSubjectSpecific.m) contains the main script, which works by default with the dataset published in https://zenodo.org/record/3997352#.X0y1B3kzZEY. The [preprocessData.m](preprocessData.m)-script can be used to preprocess the data, downloaded from the aforementioned link, and replaces the function of the same name at https://zenodo.org/record/3997352#.X0y1B3kzZEY. 
 
 Developed and tested in MATLAB R2020a.
+
+### Quick guide
+
+1. Download the dataset from https://zenodo.org/record/3997352#.X0y3nHkzZEZ.
+2. Run [preprocessData.m](preprocessData.m).
+3. Run [mainSubjectSpecific.m](mainSubjectSpecific.m).
+4. Add your own datasets and play around!
 
 ## Contact
 Simon Geirnaert  
