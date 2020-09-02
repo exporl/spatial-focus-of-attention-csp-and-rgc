@@ -8,7 +8,7 @@ function [W,score,tr] = trainCSP(X,label,npat,optmode,heuristicPatSel,covMethod)
 %
 %   Input parameters:
 %       X [DOUBLE]: EEG tensor (channel x time x trial)
-%                   label [1 or 2]: trial labels (binary)
+%       label [1 or 2]: trial labels (binary)
 %       npat [INTEGER]: number of CS patterns to retain (in total)
 %       optmode [STRING]: 'ratiotrace' (standard CSP) or 'traceratio'
 %                         (traceratio optimization)
