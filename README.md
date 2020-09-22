@@ -1,4 +1,4 @@
-﻿# MESD toolbox
+﻿# MATLAB code to determin spatial focus of auditory attention using CSPs
 
 ## License
 
