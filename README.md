@@ -1,4 +1,4 @@
-﻿# MATLAB code to determine spatial focus of auditory attention using CSPs
+﻿# EEG-based decoding of the spatial focus of auditory attention using CSPs
 
 ## License
 
