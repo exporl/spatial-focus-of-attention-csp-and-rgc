@@ -1,4 +1,4 @@
-﻿# MATLAB code to determin spatial focus of auditory attention using CSPs
+﻿# MATLAB code to determine spatial focus of auditory attention using CSPs
 
 ## License
 
