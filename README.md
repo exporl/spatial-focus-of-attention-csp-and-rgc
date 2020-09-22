@@ -1,4 +1,4 @@
-﻿# MESD toolbox
+﻿# EEG-based decoding of the spatial focus of auditory attention using CSPs
 
 ## License
 
