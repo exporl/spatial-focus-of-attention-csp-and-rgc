@@ -74,9 +74,11 @@ By downloading and or installing the Software and associated files on your compu
 
 #### A.1 Description of the Software:
 
-The Software constitutes any software distributed as part of or pertaining to the MATLAB code as made available online at https://github.com/exporl/spatial-focus-of-attention-csp, except 'lwcov.m' and 'preprocessData.m'.
+The Software constitutes any software distributed as part of or pertaining to the MATLAB code as made available online at https://github.com/exporl/spatial-focus-of-attention-csp-and-rgc, except 'lwcov.m' and 'preprocessData.m'.
 
 
 #### A.2 References:
 
-[1] S. Geirnaert, T. Francart, and A. Bertrand, "Fast EEG-based decoding of the directional focus of auditory attention using common spatial patterns," bioRxiv, 2020.06.16.154450, https://doi.org/10.1101/2020.06.16.154450, 2020
+[1] S. Geirnaert, T. Francart and A. Bertrand, "Fast EEG-Based Decoding Of The Directional Focus Of Auditory Attention Using Common Spatial Patterns," in IEEE Transactions on Biomedical Engineering, vol. 68, no. 5, pp. 1557-1568, May 2021, doi: 10.1109/TBME.2020.3033446.
+
+[2] S. Geirnaert, T. Francart and A. Bertrand, "Riemannian Geometry-Based Decoding of the Directional Focus of Auditory Attention Using EEG," ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021, pp. 1115-1119, doi: 10.1109/ICASSP39728.2021.9413404.
