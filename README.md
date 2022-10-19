@@ -8,7 +8,7 @@ If this code has been useful for you, please cite [1] and/or [2].
 
 ## About
 
-This repository includes the MATLAB-code for the subject-specific CSP decoder as explained in [1] and subject-specific RGC algorithm as explained in [2]. mainSubjectSpecific.m contains the main script for [CSP/mainSubjectSpecific.m](CSP) and [RGC/mainSubjectSpecific.m](RGC), which works by default with the dataset published in https://zenodo.org/record/3997352#.X0y1B3kzZEY. The [preprocessData.m](preprocessData.m)-script can be used to preprocess the data, downloaded from the aforementioned link, and replaces the function of the same name at https://zenodo.org/record/3997352#.X0y1B3kzZEY. 
+This repository includes the MATLAB-code for the subject-specific CSP decoder as explained in [1] and subject-specific RGC algorithm as explained in [2]. mainSubjectSpecific.m contains the main script for [CSP](CSP/mainSubjectSpecific.m) and [RGC](RGC/mainSubjectSpecific.m), which works by default with the dataset published in https://zenodo.org/record/3997352#.X0y1B3kzZEY. The [preprocessData.m](preprocessData.m)-script can be used to preprocess the data, downloaded from the aforementioned link, and replaces the function of the same name at https://zenodo.org/record/3997352#.X0y1B3kzZEY. 
 
 Developed and tested in MATLAB R2020a.
 
